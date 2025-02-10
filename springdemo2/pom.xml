@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.carlos.springboot</groupId>
-    <artifactId>springdemo</artifactId>
+    <groupId>carlos.springboot</groupId>
+    <artifactId>springdemo2</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -21,14 +21,6 @@
             <artifactId>spring-context</artifactId>
             <version>5.1.3.RELEASE</version>
         </dependency>
-
-        <!-- https://mvnrepository.com/artifact/org.springframework/spring-beans -->
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-beans</artifactId>
-            <version>5.1.3.RELEASE</version>
-        </dependency>
-
 
     </dependencies>
 
